@@ -1,6 +1,6 @@
 let nomeHoreoi = "Daniel"
-let experienciaHeroi = 7001
-let nivelHeroi
+let experienciaHeroi = 1000
+let nivel
 
 if (experienciaHeroi <= 1000) {
     nivel = "Ferro"
